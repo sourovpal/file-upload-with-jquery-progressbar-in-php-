@@ -1,0 +1,54 @@
+.none
+{
+	outline:none !important;
+	box-shadow:none !important;
+}
+.top-area
+{
+	width:100%;
+	height:45px;
+	background:#383838;
+	position:fixed;
+	left:0;
+	top:0;
+}
+.top-area .top-area-left
+{
+	width:16%;
+	background:#383838;
+	display:flex;
+	justify-content:space-between;
+}
+.top-area .top-area-left .app-title
+{
+	font-size: 21px;
+    color: #fff;
+    font-weight: 700;
+    font-family: cursive;
+    margin-left: 16px;
+    line-height: 45px;
+}
+.top-area .top-area-left .app-title .fa
+{
+	transform: rotate(-14deg);
+}
+.top-area .top-area-left .navicon .fa
+{
+	line-height: 45px;
+    color:#6f6f6f;
+    font-size: 24px;
+    cursor:pointer;
+    transition:0.5s;
+}
+.top-area .top-area-left .navicon .fa:hover
+{
+	color:#efefef;
+}
+
+
+
+
+.top-area .top-area-right .navicon
+{
+}
+.top-area .top-area-left

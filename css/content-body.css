@@ -1,0 +1,26 @@
+.content-body
+{
+	margin-left: 216px;
+	margin-top:45px;
+	margin-bottom:40px;
+	background:#f5f5f5;
+}
+.content-body .content-area
+{
+	width:96%;
+	margin:0 auto;
+	margin-top:10px;
+}
+.content-body .content-area .page-title
+{
+	font-size:30px;
+	font-weight:700;
+	font-family:arial;
+	margin-bottom:10px;
+	padding-top:10px;
+}
+.content-body .content-area  .content
+{
+	width:100%;
+	background:#fff;
+}
